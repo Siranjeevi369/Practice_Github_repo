@@ -18,6 +18,7 @@ git remote -v	View the remote repository of the currently working file or direct
 Branching & Merging
 Command	Description
 
+
 git branch	List branches (the asterisk denotes the current branch)
 git branch -a	List all branches (local and remote)
 git branch [branch name]	Create a new branch
